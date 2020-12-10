@@ -1,0 +1,19 @@
+.container{
+    width: 1039px;
+    height: 775px;
+}
+
+.sides{
+    display: inline-block;
+}
+
+.left-side{
+    float: left;
+    width: 200px;
+    height: 75%;
+}
+
+.right-side{
+    float: right;
+    width: calc(100%-200px);
+}

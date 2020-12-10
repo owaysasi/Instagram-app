@@ -1,0 +1,41 @@
+.container-story{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.add-story{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 45px;
+    width: 50px;
+    height: 50px;
+    background-color: #F73E60;
+    color: white;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+.story-post{
+    width:140px;
+    height: 70px;
+    position: relative;
+}
+
+.story-pic{
+    position: relative;
+    width: 140px;
+    height: 70px;
+}
+
+.croped-pic{
+    width: 70px;
+    height: 70px;
+    left: -22px;
+    top: -2;
+    position: absolute;
+    border-radius: 45px;
+    border: 2px solid white;
+    z-index: 2;
+}

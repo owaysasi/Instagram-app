@@ -1,0 +1,55 @@
+.container-navbar{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-cam{
+    height: 30px;
+    width: 37px;
+}
+
+.search{
+    border-radius: 15px;
+    border: none;
+    background-color: rgb(241, 241, 241);
+    color: rgb(190, 190, 190);
+    height: 35px;
+    width: 280px;
+    padding-left: 15px;
+}
+
+.profile-inst{
+    height: 50px;
+    width: 50px;
+}
+
+.nav_search{
+    position: relative;
+}
+
+.search_icon{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.profile{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.profile-item{
+    padding-right: 10px;
+}
+
+.profile-name{
+    font-size: 9px;
+    font-style: bold;
+    color: #F73E60;
+}
+
+.profile-desc{
+    font-size: 7px;
+    color: rgb(190, 190, 190);
+}

@@ -1,0 +1,22 @@
+.container-sidebar{
+    float: left;
+    text-align: left;
+    box-shadow: 2px 0 5px -3px #888;
+    width: 200px;
+    height: 100%;
+    padding-bottom: 40px;
+}
+
+.Insta-logo{
+    float: left;   
+    height: 50px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.btn_side{
+    display: block;
+    margin-left: 20px;
+    margin-bottom: 25px;
+    color: gray;
+}
